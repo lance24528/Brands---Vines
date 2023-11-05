@@ -3,7 +3,7 @@
 
 
 
-Check out [Brands & Vines Promotional Video](https://github.com) for a quick preview.
+Check out [Brands & Vines Promotional Video](https://www.youtube.com/watch?v=B_v_iyErhhk&ab_channel=Lance) for a quick preview.
 
  
 
