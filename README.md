@@ -16,4 +16,11 @@ Initial Design
 Final Design
 
 
-![Initial Design](https://github.com/lance24528/Brands---Vines/blob/16e733f12149cd8b6c0a410b0a0144cb807d5a54/website-images/Final%20Design.png)
+![Initial Design](https://github.com/lance24528/Brands---Vines/blob/16e733f12149cd8b6c0a410b0a0144cb807d5a54/website-images/Final%20Design.png)<br><br>
+
+
+Certificate 
+
+
+![Initial Design](https://github.com/lance24528/Brands---Vines/blob/9dbc8254d01d6f1fcff654e3b3ce9b7f2dbf2dbe/website-images/Certificate%20of%20Appreciation.png)
+
