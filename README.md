@@ -2,5 +2,5 @@
  Website Redesign (Flower Shop Business)
 
 
- [![Website Preview/Promo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=B_v_iyErhhk)
+ [![Website Preview/Promo](C:\Users\Gicano Brothers\Documents\Brands & Vines\Brands---Vines\website-images\youtube.png)](https://www.youtube.com/watch?v=B_v_iyErhhk)
 
