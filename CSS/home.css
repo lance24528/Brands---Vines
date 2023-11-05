@@ -1,0 +1,426 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'Inter';              
+    zoom: 1.1; /* Because the Developer Accidentally made the website with 110% zoom on his browser */
+}
+
+/* Start A */
+/* flower and greybackground */
+.imgA1 {
+    position: absolute; 
+    z-index: 0;
+    width: 100%;
+    height: 60%;
+}
+
+.imgA2 {
+    position: absolute; 
+    z-index: 1;
+    left: 960.61px;
+    margin-top: 39px;
+    width: 515px;
+}
+
+.imgA3 {
+    position: absolute; 
+    z-index: 2;
+    top:120px;
+    left: 670px;
+    margin-top: 350px;
+    height: auto;
+    width: 180px;
+}  
+
+.imgA4 {
+    position: absolute; 
+    z-index: 3;
+    left: 770px;
+    margin-top: 492px;
+    height: auto;
+    width: 200px;
+    
+}  
+
+.image-container1 > img {                
+                  
+    top: 130px;
+    right: 0px;
+    
+}
+
+/* Image on top of Text */
+.image-container1 .textA1 {
+    z-index: 1;
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-100%, -120%);
+    color: white;
+    font-size: 24px;
+    text-align: center;             
+    padding: 20px;
+}
+
+.image-container1 .textA1 h1 {
+    font-size: 75px;
+}
+
+.image-container1 .textA1 p {   
+    margin-left: -195px;           
+    font-size: 15px;
+    text-align: right;
+    
+    font-style: normal;
+    font-weight: 400;
+    color: lightgray;
+} 
+
+.learnMore {
+    position: absolute;
+    top: 72.5%;
+    left: 870px;
+    transform: translate(-50%, -50%);
+    z-index: 99;
+    text-align: center;               
+    padding: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+}
+
+/* navigation bar */
+ .logo > img {
+    padding-left: 50px;
+    padding-top: 15px;
+}
+
+.navigation-bar {
+    height: 100vh;
+    width: 100%;
+}
+
+nav {
+    display: flex;
+                  
+    
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 30px 13px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    color: #E0C961;
+  }
+
+#right {
+    margin-left: 1000px;
+    padding: 0px 10px;
+}
+
+.UserIcon {
+    margin-top: 4px;
+}
+
+.BagIcon {
+    margin-bottom: 6px;
+}
+
+/* END of A */
+
+
+/* Dropdown button */
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    padding: 0px 0px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+  }
+  
+  /* Dropdown content (hidden by default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 2;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 17px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-size: 12px;
+  }
+  
+  /* Add a grey background color to dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+    border-radius: 15px;
+  }
+/* Start of B */
+
+/* 2 Stacked Pictures of Flowers */
+.image-container2 {
+    position: relative;
+    width: 500px; /* Adjust the width to your preference */
+    height: 500px; /* Adjust the height to your preference */
+}
+
+.image-container2 img {
+    position: absolute;
+}
+
+.image-container2 .imgB1 {
+    top: -225px;
+    left: 200px;
+    z-index: 1;
+}
+
+.image-container2 .imgB2 {
+    top: 105px;
+    left: 446px;
+    z-index: 2;
+}
+
+.image-container2 .imgB3 {
+    top: -140px;
+    left: 970px;
+    z-index: 3;
+    width: auto;
+    height: 220px;
+}
+
+.image-container2 .imgB4 {
+    top: 120px;
+    left: 970px;
+    z-index: 3;
+}
+
+/* Text Beside the 2 Stacked Flower Pictures */
+.image-container2 .textB1 h2 {
+    white-space: nowrap;
+    position: relative;
+    top: -125px;
+    left: 1000px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+}
+/* End of B */
+
+/* Start of C */
+.imgC1 {
+    position: absolute; 
+    z-index: 0;
+    width: 102.913333%;
+    height: 50%;
+    margin-top: 155px;
+    padding: 0;
+    left: -50px;              
+}
+
+.imgC2 {
+    position: absolute; 
+    z-index: 1;             
+    padding: 0;
+    margin-top: 266px;
+    left: 750px;                  
+}
+
+.textC1 {
+    position: absolute;
+    left: 443px;
+    margin-top: 327px;               
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: lightgray;
+}
+/* End of C */
+
+/* Start of D */
+.textD1 {
+    z-index: 5;
+    margin-top: 150px;
+    left: 443px;
+    height: 120vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+.textD1 img {
+    margin-top: -15px;
+}
+
+.imgD1 {
+    position: absolute; 
+    z-index: 0;
+    width: 102.913333%;              
+    margin-top: -215px;
+    padding: 0;
+    left: -50px;              
+}
+
+.imgD2 {
+    position: absolute; 
+    z-index: 1;          
+    margin-top: -430px;
+    padding: 0;
+    left: 305px;                
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.imgD3 {
+    position: absolute; 
+    z-index: 1;         
+    margin-top: -430px;
+    padding: 0;
+    left: 700px;                            
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.imgD4 {
+    position: absolute; 
+    z-index: 1;          
+    margin-top: -430px;
+    padding: 0;
+    left: 1110px;       
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));       
+}
+
+.imgD5 {
+    position: absolute; 
+    z-index: 1;          
+    margin-top: 90px;
+    padding: 0;
+    left: 766.9px;       
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));       
+}
+
+.image-container5 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.image-wrapper {
+    text-align: center;
+    margin: 20px;
+}
+
+.image-wrapper p {
+    margin-top: -38px;              
+    align-items: center; /* Align text vertically */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+}
+
+.image-container5 .image-wrapper p {
+    margin: -80px 95px 0px 95px; /* Adjust the value as per your preference */
+}
+/* End of D */
+
+/* Start of E */
+.image-container6 {
+    display: flex;
+    justify-content: center;
+    gap: 50px; /* Adjust the gap as needed */
+    margin-top: 270px; /* Adjust the margin as needed */
+}
+
+.imgE1, .imgE2, .imgE3 {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.horizontal-line {
+    padding: 0;
+    width: 100%;
+    border: none;
+    height: 1px;
+    background-color: grey; /* Adjust the color as needed */
+    margin: 120px 0px 0px 0px ; /* Adjust the margin as needed */
+}
+/* End of E */
+
+/* Footer */
+.image-container7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.image-container7 img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.fb {
+    position: absolute;
+    margin-right: 6.4%;
+    margin-bottom: 18.1%;
+}
+
+.ig {
+    position: absolute;
+    margin-right: 0%;
+    margin-bottom: 18.1%;
+}
+
+.tk {
+    position: absolute;
+    margin-right: -6.5%;
+    margin-bottom: 18.1%;
+}
+
+:root {
+    touch-action: pan-x pan-y;
+    height: 100% 
+  }
+
+  .navigation-bar-bot{
+    z-index: 4;
+    position: absolute;
+    margin: 0px 0px 0px 0px;
+}

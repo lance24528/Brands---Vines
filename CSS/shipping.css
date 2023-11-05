@@ -1,0 +1,270 @@
+@import url('https://fonts.cdnfonts.com/css/cinzel');
+
+body {    
+    margin: 0px;
+    font-family: 'Inter';  
+    zoom: 1.1; /* Because the Developer Accidentally made the website with 110% zoom on his browser */
+}
+
+/* Start of Right Side */
+.container {
+    display: flex;
+
+    height: 100vh;
+}
+
+.left-side {
+    flex: 1;
+    background-color: #fff;
+}
+
+.right-side {
+    flex: 1;
+    background-color: #f0f0f0;
+}
+
+.image-container1 {
+    position: relative;
+}
+
+.image-container1 .RimgA1 {
+    zoom: 1.1;
+    margin: 150px 0px 0px 70px;
+}   
+
+.text-container {
+    position: absolute;
+    top: 80%;
+    right: 25%;
+    text-align: right;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.text-container p {
+    margin: 0;
+    margin-left: 250px;
+    white-space: nowrap;
+}
+
+.horizontal-line1 {
+    border: none;
+    border-top: 1px solid grey; /* Set the line color and style */
+    margin: 0px 215px 25px 75px; /* Adjust the margin as needed */
+}
+
+.horizontal-line2 {
+    border: none;
+    border-top: 1px solid grey; /* Set the line color and style */
+    margin: 25px 215px 0px 75px; /* Adjust the margin as needed */
+}
+
+.cost {
+    margin: 50px 0px 0px 0px;
+}
+
+.text-container1 {
+    margin: 0px 0px 0px -335px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.text-container1 p {
+    margin-left: 410px;
+    white-space: nowrap;
+}
+
+.text-container1 .total {
+    line-height: 15px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.horizontal-line3 {
+    border: none;
+    border-top: 1px solid grey; /* Set the line color and style */
+    margin: 0px 10px 8px 10px; /* Adjust the margin as needed */
+}
+
+.text-container2 {
+    margin: 0px 0px 0px -255px;
+    display: flex;
+    flex-direction: row;           
+}
+
+.text-container2 p {
+    margin-left: 330px;
+}
+/* End of Right Side */
+
+/* Start of Left Side */
+.LimgA1 {
+    margin: 250px 0px 0px 230vh;
+    zoom: 0.2;
+}
+
+.content-container {
+    display: flex;
+    align-items: center;
+    margin: 5px 0px 0px 215px;
+}
+
+.text1 {
+    opacity: 70%;
+    margin: 0;
+    margin-right: 10px; /* Adjust the spacing between text and image as needed */
+}
+
+.active-text {
+    margin: 0;
+    margin-right: 10px; /* Adjust the spacing between text and image as needed */
+}
+
+.image {
+    margin-right: 10px; /* Adjust the spacing between images as needed */
+}
+
+.contact {
+    margin: 30px 0px 0px 215px;
+    font-size: 22px;
+}        
+
+.ship {
+    margin: 60px 0px 0px 215px;
+    font-size: 22px;
+}
+
+.text-area1::placeholder, .text-area::placeholder {
+    font-family: 'Inter';   ; /* Change the font family as desired */
+    font-size: 14px; /* Change the font size as desired */
+    font-weight: normal; /* Change the font weight as desired */
+    color: #999; /* Change the placeholder text color as desired */
+}
+
+.text-area-container {
+    margin: 10px 0px 0px 215px;
+    width: 550px; /* Adjust the width as needed */
+    height: 110px; /* Adjust the height as needed */
+    border: 2px solid #ccc; /* Border style */
+    border-radius: 5px; /* Rounded corner radius */
+    padding: 10px; /* Space inside the rectangle */
+}
+
+.text-area {
+    width: 100%;
+    height: 100%;
+    resize: none; /* Prevent resizing of the textarea */
+    border: none; /* Remove textarea border */
+    background-color: transparent; /* Transparent background */
+}
+
+.content-container1{
+    display: flex;
+    align-items: center;
+    margin: 35px 0px 0px 215px;
+}
+
+.checkout {
+    margin: -25px 0px 50px 505px;
+    text-decoration:none;
+}
+
+.checkout .text{
+    margin: auto;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+
+.text-wrap {
+    display: flex;  
+    margin: -130px 0px 0px 10px;
+}
+
+.text-wrap p {
+    color: #535353;
+    margin-right: 410px;
+    flex: 1;
+}
+
+.text-wrap1 {
+    display: flex;  
+    margin: -10px 0px 0px 10px;
+}
+
+.text-wrap1 p {
+    color: #535353;
+    margin-right: 410px;
+    flex: 1;
+}
+
+.text-wrap2 span {
+    display: block;  
+    margin: 10px 0px 0px 10px;
+}
+
+.text-wrap2 .email {
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+
+.text-wrap2 {
+    margin: -95px 0px 0px 110px;
+}
+
+.text-area-container3 {
+    margin: 10px 0px 0px 215px;
+    width: 550px; /* Adjust the width as needed */
+    height: 80px; /* Adjust the height as needed */
+    border: 2px solid #ccc; /* Border style */
+    border-radius: 5px; /* Rounded corner radius */
+    padding: 10px; /* Space inside the rectangle */
+}
+
+.text-area3 {
+    width: 100%;
+    height: 100%;
+    resize: none; /* Prevent resizing of the textarea */
+    border: none; /* Remove textarea border */
+    background-color: transparent; /* Transparent background */
+}
+
+.text-wrapper {
+    margin-top: 40px;
+}
+
+.text-wrap3 {
+    white-space: nowrap;
+    display: flex;  
+    margin: -130px 0px 0px 10px;
+}
+
+.text-wrap3 p {
+    
+    margin-right: 275px;
+    flex: 1;
+}
+
+.text-wrap4 {
+    display: flex;  
+    margin: -20px 0px 0px 10px;
+}
+
+.text-wrap4 p {
+    font-weight: lighter;
+    color: #535353;
+    margin-right: 40px;
+    flex: 1;
+}
+/* End of Left Side */
+
+a:link{
+    text-decoration: none!important;
+  }
