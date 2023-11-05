@@ -10,7 +10,7 @@ Check out [Brands & Vines Promotional Video](https://www.youtube.com/watch?v=B_v
 Initial Design
 
 
-![Initial Design](https://github.com/lance24528/Brands---Vines/blob/147b3cf6367cbe80574779b6aac22838bac8e151/website-images/Initial%20Design.jpeg)
+![Initial Design](https://github.com/lance24528/Brands---Vines/blob/147b3cf6367cbe80574779b6aac22838bac8e151/website-images/Initial%20Design.jpeg)<br><br>
 
 
 Final Design
