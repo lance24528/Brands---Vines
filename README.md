@@ -1,10 +1,9 @@
 # Brands & Vines
  Website Redesign (Flower Shop Business)
 
-Preview/Promo Video
 
 
- [![Website Preview/Promo](https://img.youtube.com/vi/B_v_iyErhhk/0.jpg)](https://www.youtube.com/watch?v=B_v_iyErhhk)
+Check out [Brands & Vines Promotional Video](https://github.com) for a quick preview.
 
  
 
